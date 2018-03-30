@@ -1,0 +1,21 @@
+#accordion{
+	width: 600px;
+	background: orangered;
+	margin: 0 auto;
+}
+#accordion div h1{
+	color: #93f9bd;
+	padding: 10px 15px;
+	font-size: 20px;
+	cursor: pointer;
+}
+#accordion div{
+	border-bottom: 1px solid lightgrey;
+}
+#accordion div p{
+	padding: 5px 25px;
+	color: cornsilk;
+	background: #f56530;
+	display: none;
+	line-height: 20px;
+}
