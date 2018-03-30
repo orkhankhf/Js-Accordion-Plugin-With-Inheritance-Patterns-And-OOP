@@ -1,1 +1,1 @@
-# Js-Accordion-Plugin-With-Inheritance-Patterns-And-OOP
+# Accordion Plugin With Inheritance Patterns And OOP (Javascript)
